@@ -22,7 +22,7 @@ It uses data analysis techniques along with visualization to simulate real-world
 * Detects suspicious transaction patterns
 * Classifies users as:
 
-  * Safe ✅
+
   * High Risk ⚠️
   * Fraud Alert 🚨
 
