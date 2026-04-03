@@ -8,7 +8,7 @@ It uses data analysis techniques along with visualization to simulate real-world
 
 ---
 
-## ✨ Features
+##  Features
 
 ### 📊 Data Analysis
 
