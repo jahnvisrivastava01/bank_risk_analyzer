@@ -23,8 +23,8 @@ It uses data analysis techniques along with visualization to simulate real-world
 * Classifies users as:
 
 
-  * High Risk ⚠️
-  * Fraud Alert 🚨
+  * High Risk 
+  * Fraud Alert 
 
 ### 📈 Visualization
 
