@@ -1,6 +1,6 @@
 # 💳 Bank Customer Risk & Transaction Analytics System
 
-## 🚀 Overview
+##  Overview
 
 This project analyzes bank customer data to identify transaction patterns, detect high-risk users, and generate useful business insights.
 
